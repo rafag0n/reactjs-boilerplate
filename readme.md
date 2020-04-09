@@ -1,4 +1,4 @@
-ReactJS Boilerplate
+# ReactJS Boilerplate
 
 ## Install
 
