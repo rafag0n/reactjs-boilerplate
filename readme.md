@@ -2,7 +2,7 @@ ReactJS Boilerplate
 
 ## Install
 
-This project uses React.JS [React.JS](https://pt-br.reactjs.org/). You will need yarn and npm installed at your machine. To install dependencies and start the development server, just run:
+This project uses [React.JS](https://pt-br.reactjs.org/). You will need yarn and npm installed at your machine. To install dependencies and start the development server, just run:
 
 ```
 yarn install && yarn start:dev
